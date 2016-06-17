@@ -2,7 +2,7 @@ package com.pei.headfirst.designpatterns.iterator;
 
 import java.util.*;
 
-public class PancakeHouseMenu implements  Menu {
+public class PancakeHouseMenu {
     ArrayList menuItems;
 
     public Iterator createIterator() {
