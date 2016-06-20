@@ -1,6 +1,0 @@
-package com.pei.headfirst.designpatterns.adapter;
-
-public interface Duck {
-    void quack();
-    void fly();
-}
